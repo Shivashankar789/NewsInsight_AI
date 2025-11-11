@@ -163,10 +163,6 @@ Contributions are welcome! Areas for improvement:
 - Better error handling
 - UI/UX improvements
 
-## 📝 License
-
-[Add your license information here]
-
 ## 🙏 Acknowledgments
 
 - Built with [LangChain](https://github.com/langchain-ai/langchain)
